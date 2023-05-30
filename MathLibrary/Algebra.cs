@@ -76,6 +76,7 @@ namespace MathLibrary
         //      Линейное уравнение из листа
         public static double[] LinearEquation(int[] array)
         {
+            //TODO
             return new double[0];
         }
 
