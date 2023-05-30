@@ -14,6 +14,7 @@ namespace MathApp
         {
             List<double> list = new List<double>() { 7, 3, -9, 12, 1300};
             Console.WriteLine(Algebra.AvgInLine(list));
+            Console.WriteLine(Trigonometry.CosA(43, 3));
         }
     }
 }
